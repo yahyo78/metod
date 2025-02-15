@@ -31,7 +31,6 @@ let text = "Я люблю JavaScript";
 let newText = text.replace("люблю", "обожаю");
 console.log(newText); // "Я обожаю JavaScript"
 
-![scale_1200](https://github.com/user-attachments/assets/27f9a052-163c-4912-ba85-38b6abcffc2a)
 
 
 ###  6️⃣ _slice_: извлекает часть строки от start до end (не включая end).
